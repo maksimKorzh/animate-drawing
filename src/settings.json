@@ -1,0 +1,12 @@
+{
+    "preview": true,
+    "Black-n-White": true,
+    "source_image": "./Images/source_image.png",
+    "background_image": "./Images/background_sand.png",
+    "foreground_image": "./Images/foreground_sand.png",
+    "random_traversal": false,
+    "line_thickness": 1,
+    "animation_speed": 100,
+    "complete_image_show_frames": 100,
+    "output_video": "sand_animation.avi"
+}

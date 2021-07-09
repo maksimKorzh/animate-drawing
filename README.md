@@ -1,2 +1,2 @@
-# animate-drawing
-Whiteboard &amp; Sand animation imitation using Python &amp; OpenCV
+# sand-animation
+Mimics whiteboard or sand animation using Python and OpenCV
